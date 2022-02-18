@@ -17,6 +17,7 @@ textarea {
   border: none; 
   border-radius: 5px;
   padding: 5px;
+  margin-top: 10px;
 }
 
 input[type=color] { 
@@ -66,7 +67,6 @@ button:active {
 .container { 
   display: flex;
 }
-
 
 .color-input { 
   display: flex;
